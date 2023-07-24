@@ -1,2 +1,2 @@
 # resources-lists
-a 'main/major' reasource list
+a 'main/major' resource list
