@@ -2,13 +2,17 @@
 a 'main/major' resource list
 
 
+## own Reverse Shells
+* [compact_linux_reverse_shell.c](https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597)
+* [compact_windows_reverse_shell.c](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
+
 
 ## The Secret Club
 - https://github.com/thesecretclub
 * https://github.com/Mattiwatti/EfiGuard
 * https://github.com/volticks/CTF-Writeups
 
-## Others
+## Other Viewers
 * https://github.com/WerWolv/ImHex
 * https://godbolt.org/
 * https://github.com/mrphrazer/obfuscation_detection
@@ -20,7 +24,13 @@ a 'main/major' resource list
 * https://github.com/LeelaChessZero/lc0
 * https://github.com/TheBlackPlague/StockDory
 
-## own
+## Pinned projects
 * https://github.com/loneicewolf/mechanical-notes
-
+* [EXEC_LKM](https://github.com/loneicewolf/EXEC_LKM)
+* [DotFIles](https://github.com/loneicewolf/DotFiles)
+* [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
+* [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
+* [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
+* [rust-notebook](https://github.com/loneicewolf/Rust-Notebook)
+  
 
