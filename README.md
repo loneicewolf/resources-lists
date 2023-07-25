@@ -8,6 +8,8 @@ a 'main/major' resource list
 * https://github.com/volticks/CTF-Writeups
 
 ## Others
+* https://github.com/WerWolv/ImHex
+* https://godbolt.org/
 * https://github.com/mrphrazer/obfuscation_detection
 * https://github.com/mrphrazer/r2con2021_deobfuscation
 * https://github.com/Nowilltolife/Disassembly
