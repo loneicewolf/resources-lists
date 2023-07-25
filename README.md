@@ -4,6 +4,7 @@ a 'main/major' resource list
 
 
 ## The Secret Club
+- https://github.com/thesecretclub
 * https://github.com/Mattiwatti/EfiGuard
 * https://github.com/volticks/CTF-Writeups
 
