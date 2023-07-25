@@ -1,10 +1,14 @@
-# resources-lists
-a 'main/major' resource list
+# ☢️ Often used
+* https://github.com/loneicewolf/KernelMode-Code
+* https://embeddedsw.net/
+
+---
 
 
 ## own Reverse Shells
 * [compact_linux_reverse_shell.c](https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597)
 * [compact_windows_reverse_shell.c](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
+
 
 
 ## The Secret Club
@@ -29,8 +33,5 @@ a 'main/major' resource list
 * [EXEC_LKM](https://github.com/loneicewolf/EXEC_LKM)
 * [DotFIles](https://github.com/loneicewolf/DotFiles)
 * [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
-* [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
-* [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
-* [rust-notebook](https://github.com/loneicewolf/Rust-Notebook)
   
 
