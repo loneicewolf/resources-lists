@@ -43,3 +43,5 @@ Why make this? Why not just star?
 * https://github.com/official-stockfish/Stockfish
 * https://github.com/LeelaChessZero/lc0
 * https://github.com/TheBlackPlague/StockDory
+
+* https://github.com/mccoderpy/simply-pypi-search/tree/main
