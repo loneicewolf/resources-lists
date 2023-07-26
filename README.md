@@ -10,6 +10,8 @@
 * [compact_windows_reverse_shell.c](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
 
 
+## Discord Dev Stuff
+- https://docs.dcs.aitsys.dev/
 
 ## The Secret Club
 - https://github.com/thesecretclub
