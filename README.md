@@ -45,3 +45,33 @@ Why make this? Why not just star?
 * https://github.com/TheBlackPlague/StockDory
 
 * https://github.com/mccoderpy/simply-pypi-search/tree/main
+* https://github.com/JuliaPoo/MT19937-Symbolic-Execution-and-Solver
+* https://github.com/JuliaPoo/Artfuscator
+
+
+* https://github.com/loneicewolf/awesome-ctf/tree/patch-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
