@@ -54,7 +54,7 @@ Why make this? Why not just star?
 * https://github.com/JuliaPoo/Artfuscator
 * https://github.com/loneicewolf/awesome-ctf/tree/patch-1
 * https://github.com/Naupjjin/gun-game/blob/main/gun.py
-
+* https://github.com/i-nino/cpu-internals
 
 
 
