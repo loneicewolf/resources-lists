@@ -5,9 +5,14 @@ Why make this? Why not just star?
 # ☢️ Often used
 * https://github.com/loneicewolf/KernelMode-Code
 * https://embeddedsw.net/
+* https://embeddedsw.net/OpenPuff_Steganography_Home.html
+* https://embeddedsw.net/MultiObfuscator_Cryptography_Home.html
+* https://embeddedsw.net/libObfuscate_Cryptography_Home.html
+* https://embeddedsw.net/Cipher_Reference_Home.html
 
 ## Pinned projects
 * https://github.com/loneicewolf/mechanical-notes
+
 * [EXEC_LKM](https://github.com/loneicewolf/EXEC_LKM)
 * [DotFIles](https://github.com/loneicewolf/DotFiles)
 * [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
@@ -60,7 +65,6 @@ Why make this? Why not just star?
 -
 -
 - 
-
 
 
 
