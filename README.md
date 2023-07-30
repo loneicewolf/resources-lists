@@ -59,12 +59,18 @@ Why make this? Why not just star?
 
 
 
+* https://github.com/Pusty/Obfuscat
+* https://github.com/Lima-X/Win32.Nebula
+* 
+* 
+
+
 ## Gitub Users
 `//GitHub users I find do interesting things`
 - https://github.com/JuliaPoo
+- https://github.com/Pusty
+- https://github.com/impost0r
 - 
--
--
 - 
 
 
