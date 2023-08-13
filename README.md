@@ -67,10 +67,10 @@ Why make this? Why not just star?
 
 ## Gitub Users
 `//GitHub users I find do interesting things`
-- https://github.com/JuliaPoo
-- https://github.com/Pusty
-- https://github.com/impost0r
-- 
+- https://github.com/JuliaPoo (`general stuf`)
+- https://github.com/Pusty (`obfuscation stuff`)
+- https://github.com/impost0r (`general stuf`)
+- https://github.com/ThatOneCodeDev/ (`BSOD stuff`, like Invoke-BSOD)
 - 
 
 
