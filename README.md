@@ -70,10 +70,8 @@ Why make this? Why not just star?
 - https://github.com/JuliaPoo (`general stuf`)
 - https://github.com/Pusty (`obfuscation stuff`)
 - https://github.com/impost0r (`general stuf`)
-- [ThatOneCodeDev (e,g Invoke-BSOD)](https://github.com/ThatOneCodeDev/Invoke-BSOD)
-- 
-
-
+- [ThatOneCodeDev](https://github.com/ThatOneCodeDev)
+    - [ThatOneCodeDev's Invoke-BSOD](https://github.com/ThatOneCodeDev/Invoke-BSOD)
 
 
 
