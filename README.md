@@ -66,13 +66,19 @@ Why make this? Why not just star?
 
 
 ## Gitub Users
-`//GitHub users I find do interesting things`
-- https://github.com/JuliaPoo (`general stuf`)
-- https://github.com/Pusty (`obfuscation stuff`)
-- https://github.com/impost0r (`general stuf`)
+```c
+// GitHub users and their repos I find fascinating
+```
 - [ThatOneCodeDev](https://github.com/ThatOneCodeDev)
     - [ThatOneCodeDev's Invoke-BSOD](https://github.com/ThatOneCodeDev/Invoke-BSOD)
 
+- https://github.com/JuliaPoo (`general stuf`)
+- https://github.com/Pusty (`obfuscation stuff`)
+- https://github.com/impost0r (`general stuf`)
+- https://github.com/odzhan/
+    - https://github.com/odzhan/tinycrypt
+    - https://github.com/odzhan/aes_dust
+    - https://github.com/odzhan/shellcode
 
 
 
