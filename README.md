@@ -73,13 +73,15 @@ Why make this? Why not just star?
     - [ThatOneCodeDev's Invoke-BSOD](https://github.com/ThatOneCodeDev/Invoke-BSOD)
 
 - https://github.com/JuliaPoo (`general stuf`)
-- https://github.com/Pusty (`obfuscation stuff`)
 - https://github.com/impost0r (`general stuf`)
 - https://github.com/odzhan/
     - https://github.com/odzhan/tinycrypt
     - https://github.com/odzhan/aes_dust
     - https://github.com/odzhan/shellcode
 
+- https://github.com/Pusty
+  - https://github.com/Pusty/Obfuscat
+  - https://github.com/Pusty/rarvm-debugger
 
 
 
