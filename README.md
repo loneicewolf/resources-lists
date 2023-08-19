@@ -1,6 +1,3 @@
-Why make this? Why not just star?
-- Because I always get lost in stars. So this is easier.
-
 
 # ☢️ Often used
 - https://github.com/loneicewolf/DFIR-Resources
