@@ -83,7 +83,7 @@
     - https://github.com/Pusty/Obfuscat
     - https://github.com/Pusty/rarvm-debugger
 
-- https://github.com/eversinc33/GpuDecryptShellcode
+- https://github.com/eversinc33/
     - https://github.com/eversinc33/GpuDecryptShellcode
         - https://eversinc33.com/posts/gpu-malware/
 
