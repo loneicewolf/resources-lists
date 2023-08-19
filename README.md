@@ -3,6 +3,7 @@ Why make this? Why not just star?
 
 
 # ☢️ Often used
+- https://github.com/loneicewolf/DFIR-Resources
 * https://github.com/loneicewolf/KernelMode-Code
 * https://embeddedsw.net/
 * https://embeddedsw.net/OpenPuff_Steganography_Home.html
@@ -89,8 +90,6 @@ Why make this? Why not just star?
 - https://github.com/eversinc33/GpuDecryptShellcode
     - https://github.com/eversinc33/GpuDecryptShellcode
         - https://eversinc33.com/posts/gpu-malware/
-
-
 
 
 
