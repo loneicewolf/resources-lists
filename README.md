@@ -64,9 +64,6 @@
 
 ## Gitub Users and blog posts
 
-```c
-// GitHub users and their repos I find fascinating
-```
 - [ThatOneCodeDev](https://github.com/ThatOneCodeDev)
     - [ThatOneCodeDev's Invoke-BSOD](https://github.com/ThatOneCodeDev/Invoke-BSOD)
 
