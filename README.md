@@ -36,12 +36,11 @@ Why make this? Why not just star?
 ## The Secret Club
 - https://github.com/thesecretclub
 * https://github.com/Mattiwatti/EfiGuard
-* https://github.com/volticks/CTF-Writeups
-
 ---
 ## Other
 * https://godbolt.org/
 * https://github.com/WerWolv/ImHex
+* https://github.com/volticks/CTF-Writeups
 * https://github.com/mrphrazer/obfuscation_detection
 * https://github.com/mrphrazer/r2con2021_deobfuscation
 * https://github.com/Nowilltolife/Disassembly
