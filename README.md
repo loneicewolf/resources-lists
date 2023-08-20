@@ -67,8 +67,8 @@
 - [ThatOneCodeDev](https://github.com/ThatOneCodeDev)
     - [ThatOneCodeDev's Invoke-BSOD](https://github.com/ThatOneCodeDev/Invoke-BSOD)
 
-- https://github.com/JuliaPoo (`general stuf`)
-- https://github.com/impost0r (`general stuf`)
+- https://github.com/JuliaPoo (`general stuff`)
+- https://github.com/impost0r (`general stuff`)
 
 
 - https://github.com/odzhan/
