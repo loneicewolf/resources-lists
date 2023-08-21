@@ -81,8 +81,9 @@
     - https://github.com/Pusty/rarvm-debugger
 
 - https://github.com/eversinc33/
-    - https://github.com/eversinc33/GpuDecryptShellcode
-        - https://eversinc33.com/posts/gpu-malware/
+  - https://eversinc33.com/
+      - https://eversinc33.com/posts/gpu-malware/
+      - https://github.com/eversinc33/GpuDecryptShellcode
 
 
 - https://github.com/netspooky
