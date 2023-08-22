@@ -90,6 +90,9 @@
   - https://n0.lol/ `<-  note, even if I have trouble seeing yellow, I do still think this site is worth including!`
 
 
+`Goldmine of Resources`
+- https://github.com/Dump-GUY
+  - https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering
 
 
 
