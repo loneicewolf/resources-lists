@@ -94,5 +94,41 @@
 - https://github.com/Dump-GUY
   - https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering
 
+***
+
+### Malware Resources
+
+⚠️ `Note. It goes without saying this is only for learning and research purposes.`
+
+- https://www.vx-underground.org
+- https://kernelmode.info/
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
