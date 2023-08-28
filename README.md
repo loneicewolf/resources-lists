@@ -85,17 +85,21 @@
       - https://eversinc33.com/posts/gpu-malware/
       - https://github.com/eversinc33/GpuDecryptShellcode
 
-
 - https://github.com/netspooky
-  - https://n0.lol/ `<-  note, even if I have trouble seeing yellow, I do still think this site is worth including!`
+  - https://n0.lol/
 
-
+***
 `Goldmine of Resources`
+
+- **Dump-GUY**
 - https://github.com/Dump-GUY
   - https://github.com/Dump-GUY/Malware-analysis-and-Reverse-engineering
 
-***
+- **indetectables-net**
+- https://github.com/indetectables-net
+  - https://github.com/indetectables-net/toolkit
 
+***
 ### Malware Resources
 
 ⚠️ `Note. It goes without saying this is only for learning and research purposes.`
@@ -103,8 +107,6 @@
 - https://www.vx-underground.org
 - https://kernelmode.info/
 - 
-
-
 
 
 
