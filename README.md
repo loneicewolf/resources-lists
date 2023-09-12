@@ -100,6 +100,12 @@
   - https://github.com/indetectables-net/toolkit
 
 ***
+https://github.com/mibho/x64dbgTraceReader
+- https://github.com/mibho/x64dbgTraceReader
+- https://github.com/mibho/x64dbg-vmp-trace
+
+
+***
 ### Malware Resources
 
 ⚠️ `Note. It goes without saying this is only for learning and research purposes.`
@@ -107,10 +113,6 @@
 - https://www.vx-underground.org
 - https://kernelmode.info/
 - 
-
-
-
-
 
 
 
