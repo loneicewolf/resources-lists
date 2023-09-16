@@ -1,5 +1,6 @@
 
 # ☢️ Often used
+- https://github.com/iTrooz/efiboot-rs
 - https://github.com/loneicewolf/DFIR-Resources
 * https://github.com/loneicewolf/KernelMode-Code
 * https://embeddedsw.net/
