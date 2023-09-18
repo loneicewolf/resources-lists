@@ -54,18 +54,13 @@
 * https://github.com/Naupjjin/gun-game/blob/main/gun.py
 * https://github.com/i-nino/cpu-internals
 * https://gist.github.com/botherder/d8dc83c3783c405c4197e4d22974ca70
-
-
-
 * https://github.com/Pusty/Obfuscat
 * https://github.com/Lima-X/Win32.Nebula
-* 
-* 
-
 
 ## Gitub Users and blog posts
 
 - **https://github.com/w4fz5uck5**
+    - https://github.com/w4fz5uck5/Pentest-notes
 
 
 - [ThatOneCodeDev](https://github.com/ThatOneCodeDev)
