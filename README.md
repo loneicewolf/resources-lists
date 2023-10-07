@@ -1,5 +1,13 @@
+# Todo:
+- [ ] Categorize/Sort this out.
 
-# ☢️ Often used
+***
+
+## Language Specific
+## Rust
+- Very nice collection of Rust Projects. (https://github.com/felix-rs)
+
+# Misc.
 - https://github.com/iTrooz/efiboot-rs
 - https://github.com/loneicewolf/DFIR-Resources
 * https://github.com/loneicewolf/KernelMode-Code
