@@ -5,7 +5,10 @@
 
 ## Language Specific
 ## Rust
-- Very nice collection of Rust Projects. (https://github.com/felix-rs)
+Very nice collection of Rust Projects.
+- https://github.com/felix-rs
+- https://github.com/memN0ps/arsenal-rs
+
 
 # Misc.
 - https://github.com/iTrooz/efiboot-rs
