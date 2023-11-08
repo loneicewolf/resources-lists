@@ -3,11 +3,19 @@
 
 ***
 
+## Subject Specific
+### OSINT
+- https://github.com/jerlendds/osintbuddy
+
+
+
 ## Language Specific
-## Rust
+### Rust
 Very nice collection of Rust Projects.
 - https://github.com/felix-rs
 - https://github.com/memN0ps/arsenal-rs
+
+
 
 
 # Misc.
