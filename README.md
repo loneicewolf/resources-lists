@@ -1,9 +1,10 @@
-# Todo:
-- [ ] Categorize/Sort this out.
+# Topic Specific
+## chess
+- https://github.com/zamfofex/leela-lichess
+
 
 ***
 
-## Subject Specific
 ### OSINT
 - https://github.com/jerlendds/osintbuddy
 
@@ -142,15 +143,7 @@ https://github.com/mibho/x64dbgTraceReader
 
 
 
+# Todo:
+- [ ] Categorize/Sort this out.
 
-
-
-
-
-
-
-
-
-
-
-
+***
