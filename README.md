@@ -10,6 +10,11 @@
 
 
 
+### OS - Specific
+## Windows
+- https://github.com/3-6-9-0d/Windows-Notes
+
+
 ## Language Specific
 ### Rust
 Very nice collection of Rust Projects.
