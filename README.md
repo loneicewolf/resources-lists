@@ -11,8 +11,10 @@
 
 
 ### OS - Specific
-## Windows
+## Linux & Windows
 - https://github.com/3-6-9-0d/Windows-Notes
+- https://github.com/3-6-9-0d/Linux-notes
+- 
 
 ## Art
 * `Rakurri's art resources`
