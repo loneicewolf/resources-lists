@@ -14,6 +14,12 @@
 ## Windows
 - https://github.com/3-6-9-0d/Windows-Notes
 
+## Art
+* `Rakurri's art resources`
+- https://github.com/Rakurri/rakurri-brush-set-for-krita
+- https://github.com/Rakurri/rakurri-brush-set-for-blender
+- https://github.com/Rakurri/rakurri-gradient-map-set-for-krita
+
 
 ## Language Specific
 ### Rust
