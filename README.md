@@ -15,7 +15,7 @@
 Very nice collection of Rust Projects.
 - https://github.com/felix-rs
 - https://github.com/memN0ps/arsenal-rs
-
+- https://github.com/memN0ps/hypervisor-rs
 
 
 
