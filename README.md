@@ -2,13 +2,12 @@
 ## chess
 - https://github.com/zamfofex/leela-lichess
 
-
-***
-
 ### OSINT
 - https://github.com/jerlendds/osintbuddy
 
-
+### Misc (malware/dfir)
+- https://github.com/kazukidevnull/KAZU-RE-MALWARE-NOTES
+- https://github.com/kazukidevnull/KAZU-DFIR-NOTES
 
 ### OS - Specific
 ## Linux & Windows
