@@ -16,9 +16,6 @@
 - 
 
 
-## Misc Stuff 2
-- https://github.com/chrxh/alien
-
 ## Art
 * `Rakurri's art resources`
 - https://github.com/Rakurri/rakurri-brush-set-for-krita
