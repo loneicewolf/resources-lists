@@ -15,6 +15,10 @@
 - https://github.com/3-6-9-0d/Linux-notes
 - 
 
+
+## Misc Stuff 2
+- https://github.com/chrxh/alien
+
 ## Art
 * `Rakurri's art resources`
 - https://github.com/Rakurri/rakurri-brush-set-for-krita
