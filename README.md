@@ -2,6 +2,10 @@
 ## Most Used
 
 
+- Malware Dev and Obfuscation
+  - https://github.com/l00sy4/ShellterSkelter
+
+
 # Lang
 - Nim
   - [SsTellaaa'S Harpy](https://github.com/SsTellaaa/Harpy)
