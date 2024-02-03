@@ -2,8 +2,8 @@
 ## Most Used
 
 
-- Malware Dev and Obfuscation
-  - l00sy4
+- Malware Dev and Obfuscation/Encryption,
+  - My friend l00sy4's repos: 
     - https://github.com/l00sy4/ShellterSkelter
     - https://github.com/l00sy4/Keylogger
 
