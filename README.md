@@ -25,8 +25,10 @@
 ***
 
 # Topic Specific
+
 ## chess
 - https://github.com/zamfofex/leela-lichess
+- https://github.com/tors42/charibot/
 
 ### OSINT
 - https://github.com/jerlendds/osintbuddy
