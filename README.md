@@ -28,7 +28,10 @@
 
 ## chess
 - https://github.com/zamfofex/leela-lichess
-- https://github.com/tors42/charibot/
+- tors42
+  - https://github.com/tors42/charibot/
+  - https://github.com/tors42/chariot
+
 
 ### OSINT
 - https://github.com/jerlendds/osintbuddy
