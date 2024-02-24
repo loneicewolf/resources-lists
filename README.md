@@ -1,14 +1,12 @@
-***
-## Most Used
+## Amazing Blog Posts
+- [estr3llas.github.io](https://estr3llas.github.io/)
+  - [asymmetric-cryptography-a-mathematical-introduction](https://estr3llas.github.io/asymmetric-cryptography-a-mathematical-introduction/)
 
-- https://github.com/AimarIbarra/funware
+- [repnz.github.io](https://repnz.github.io/)
 
-***
+- https://github.com/l00sy4/ShellterSkelter
+- https://github.com/l00sy4/Keylogger
 
-- Malware Dev and Obfuscation/Encryption,
-  - My friend l00sy4's repos: 
-    - https://github.com/l00sy4/ShellterSkelter
-    - https://github.com/l00sy4/Keylogger
 
 
 # Lang
@@ -156,11 +154,14 @@ Very nice collection of Rust Projects.
 - https://github.com/indetectables-net
   - https://github.com/indetectables-net/toolkit
 
-***
-https://github.com/mibho/x64dbgTraceReader
+- https://github.com/mibho/x64dbgTraceReader
 - https://github.com/mibho/x64dbgTraceReader
 - https://github.com/mibho/x64dbg-vmp-trace
 
+### Misc
+- https://github.com/daodavid/gravity-simulation
+- https://github.com/Lamby777/windot
+- https://github.com/AimarIbarra/funware
 
 ***
 ### Malware Resources
@@ -171,18 +172,3 @@ https://github.com/mibho/x64dbgTraceReader
 - https://kernelmode.info/
 - 
 
-
-# physics
-- https://github.com/daodavid/gravity-simulation
-
-
-
-***
-- https://github.com/Lamby777/windot
-
-
-
-# Todo:
-- [ ] Categorize/Sort this out.
-
-***
