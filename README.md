@@ -1,3 +1,8 @@
+- https://github.com/dgolak/tools
+- https://github.com/Demonslay335/CryptoTester
+
+
+
 ## Amazing Blog Posts
 - [estr3llas.github.io](https://estr3llas.github.io/)
   - [asymmetric-cryptography-a-mathematical-introduction](https://estr3llas.github.io/asymmetric-cryptography-a-mathematical-introduction/)
