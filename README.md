@@ -1,6 +1,6 @@
 - https://github.com/dgolak/tools
 - https://github.com/Demonslay335/CryptoTester
-
+- https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 
 
 ## Amazing Blog Posts
