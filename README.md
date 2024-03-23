@@ -1,5 +1,5 @@
 
-## $\textcolor{cyan}{\textsf{Cryptography notes - By my friend 3-6-9-0d }}$
+## $\textcolor{cyan}{\textsf{Cryptography notes - By my friend 3-6-9-0d }}$ ⭐
 - https://github.com/3-6-9-0d/Cryptography-notes
 ***
 
