@@ -1,6 +1,5 @@
-
-## $\textcolor{cyan}{\textsf{Cryptography notes - By my friend 3-6-9-0d }}$ ⭐
-- https://github.com/3-6-9-0d/Cryptography-notes
+## $\textcolor{white}{\textsf{Amazing Repos made By }}$   $\textcolor{cyan}{\textsf{my friend 3-6-9-0d }}$ ⭐
+- $\textcolor{red}{\textsf{Cryptography notes}}$ ~ *Includes Classical Ciphers, Classical CryptAnalysis, and GUI parts* ~ [Repo](https://github.com/3-6-9-0d/Cryptography-notes)
 ***
 
 
