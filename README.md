@@ -1,9 +1,13 @@
-- https://github.com/dgolak/tools
-- https://github.com/Demonslay335/CryptoTester
-- https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
+
+# Cryptography notes
+## By my friend `3-6-9-0d` 
+- https://github.com/3-6-9-0d/Cryptography-notes
+
+***
 
 
-## Amazing Blog Posts
+## Amazing Blog Posts and other things
+
 - [estr3llas.github.io](https://estr3llas.github.io/)
   - [asymmetric-cryptography-a-mathematical-introduction](https://estr3llas.github.io/asymmetric-cryptography-a-mathematical-introduction/)
 
@@ -11,6 +15,11 @@
 
 - https://github.com/l00sy4/ShellterSkelter
 - https://github.com/l00sy4/Keylogger
+
+- https://github.com/dgolak/tools
+- https://github.com/Demonslay335/CryptoTester
+- https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
+
 
 
 
