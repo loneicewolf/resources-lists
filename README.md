@@ -1,6 +1,12 @@
-## $\textcolor{white}{\textsf{Amazing Repos made By }}$   $\textcolor{cyan}{\textsf{my friend 3-6-9-0d }}$ ⭐
+## $\textcolor{red}{\textsf{Amazing Repos}}$
+Cryptography notes made $\textcolor{cyan}{\textsf{my friend 3-6-9-0d }}$ ⭐
 - $\textcolor{red}{\textsf{Cryptography notes}}$ ~ *Includes Classical Ciphers, Classical CryptAnalysis, and GUI parts* ~ [Repo](https://github.com/3-6-9-0d/Cryptography-notes)
-***
+====================================================================================================
+
+
+## $\textcolor{red}{\textsf{Fascinating Repos}}$
+- $\textcolor{red}{\textsf{NAC-L's Mergen project}}$ ~ *Includes Deobfuscation via optimization with usage of LLVM IR and parsing assembly.* ~ [Repo](https://github.com/NaC-L/Mergen)
+====================================================================================================
 
 
 ## Amazing Blog Posts and other things
