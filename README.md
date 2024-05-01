@@ -1,4 +1,4 @@
-⚠️ if you see a lot of 'textcolor\red\texstf}}/]}` <- stuff, then you need to enable JavaScript
+⚠️ if you see a lot of `textcolor\red\texstf}}/]}` <- stuff, then you need to enable JavaScript
 
 ## $\textcolor{red}{\textsf{Amazing Repos}}$
 - $\textcolor{red}{\textsf{Cryptography notes}}$ ~ *Includes Classical Ciphers, Classical CryptAnalysis, and GUI parts.* ~ [Repo](https://github.com/3-6-9-0d/Cryptography-notes)
