@@ -14,6 +14,9 @@
 - Obufscation and stuff 
     - https://github.com/felix-rs
     - https://github.com/felix-rs/guardian-rs
+    - https://plzin.github.io/mba-wasm/ (below other related even if I don't know them) 
+      - https://plzin.github.io/mba-wasm/perm_poly.html
+      - https://plzin.github.io/mba-wasm/linear_congruences.html
     
 
 
