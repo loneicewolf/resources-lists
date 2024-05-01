@@ -1,7 +1,6 @@
 ⚠️ if you see a lot of 'textcolor\red\texstf}}/]}' <- stuff, then you need to enable JavaScript
 
 ## $\textcolor{red}{\textsf{Amazing Repos}}$
-Cryptography notes made $\textcolor{cyan}{\textsf{my friend 3-6-9-0d }}$ ⭐
 - $\textcolor{red}{\textsf{Cryptography notes}}$ ~ *Includes Classical Ciphers, Classical CryptAnalysis, and GUI parts.* ~ [Repo](https://github.com/3-6-9-0d/Cryptography-notes)
 =======================================================================================
 
@@ -10,12 +9,12 @@ Cryptography notes made $\textcolor{cyan}{\textsf{my friend 3-6-9-0d }}$ ⭐
 - $\textcolor{red}{\textsf{NAC-L's Mergen project}}$ ~ *Includes Deobfuscation via optimization with usage of LLVM IR and parsing assembly.* ~ [Repo](https://github.com/NaC-L/Mergen)
 =======================================================================================
 
-template
-```
-## $\textcolor{red}{\textsf{Template}}$
-- $\textcolor{red}{\textsf{USER's PROJECTNAME project}}$ ~ *Includes DESCRIPTION HERE.* ~ [Repo](https://github.com/USER/REPO)
-=======================================================================================
-```
+
+## $\textcolor{red}{\textsf{Interesting Repos}}$
+- Obufscation and stuff 
+    - https://github.com/felix-rs
+    - https://github.com/felix-rs/guardian-rs
+    
 
 
 
@@ -76,7 +75,6 @@ template
 ## Language Specific
 ### Rust
 Very nice collection of Rust Projects.
-- https://github.com/felix-rs
 - https://github.com/memN0ps/arsenal-rs
 - https://github.com/memN0ps/hypervisor-rs
 
@@ -199,3 +197,11 @@ Very nice collection of Rust Projects.
 - https://kernelmode.info/
 - 
 
+
+
+template
+```
+## $\textcolor{red}{\textsf{Template}}$
+- $\textcolor{red}{\textsf{USER's PROJECTNAME project}}$ ~ *Includes DESCRIPTION HERE.* ~ [Repo](https://github.com/USER/REPO)
+=======================================================================================
+```
