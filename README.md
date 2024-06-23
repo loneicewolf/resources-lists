@@ -19,6 +19,9 @@
       - https://plzin.github.io/mba-wasm/linear_congruences.html
     
 
+**Quite fascinating repos!**
+-   https://github.com/amaank404/cheeze
+
 
 
 ## Amazing Blog Posts and other things
