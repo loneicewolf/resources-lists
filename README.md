@@ -27,6 +27,9 @@
 -   https://github.com/amaank404/cheeze
 
 
+### I have `yet` to begin with LUA and JS
+- [nice lua logger](https://github.com/tomanw8736/lua-logger)
+- [JS todo list](https://github.com/tomanw8736/todo-list) 
 
 ## Amazing Blog Posts and other things
 
