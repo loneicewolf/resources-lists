@@ -4,24 +4,24 @@
 ```
 ⚠️ if you see a lot of `textcolor\red\texstf}}/]}` <- stuff, then you need to enable JavaScript
 
-
-## $\textcolor{red}{\textsf{Awesome Repos}}$
-
-### [Coolest GUI On A Website I've ever seen](https://github.com/benguin-dev/Home-page)
-
-
-### [Amazing repo ](https://github.com/Femfus/light-button) on making a smple button! 
-
-### - My best friend [Demi's](https://github.com/damlano/osu-random-map-downloader) osu map downloader which downloads a random map in OSU!
+## $\textcolor{Red}{\textsf{Coolest Website Repos}}$
+- $\textcolor{red}{\textsf{benguin-dev's Home-page Repo}}$ ~ *Very neat repo* ~ [Repo](https://github.com/benguin-dev/Home-page)
 
 ## $\textcolor{red}{\textsf{Amazing Repos}}$
 - $\textcolor{red}{\textsf{Cryptography notes}}$ ~ *Includes Classical Ciphers, Classical CryptAnalysis, and GUI parts.* ~ [Repo](https://github.com/3-6-9-0d/Cryptography-notes)
-=======================================================================================
+
 
 
 ## $\textcolor{red}{\textsf{Fascinating Repos}}$
 - $\textcolor{red}{\textsf{NAC-L's Mergen project}}$ ~ *Includes Deobfuscation via optimization with usage of LLVM IR and parsing assembly.* ~ [Repo](https://github.com/NaC-L/Mergen)
-=======================================================================================
+
+
+
+## $\textcolor{red}{\textsf{Awesome Repos}}$
+
+### [Amazing repo ](https://github.com/Femfus/light-button) on making a smple button! 
+
+### - My best friend [Demi's](https://github.com/damlano/osu-random-map-downloader) osu map downloader which downloads a random map in OSU!
 
 
 ## $\textcolor{red}{\textsf{Interesting Repos}}$
