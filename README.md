@@ -4,8 +4,11 @@
 ```
 ⚠️ if you see a lot of `textcolor\red\texstf}}/]}` <- stuff, then you need to enable JavaScript
 
-## $\textcolor{Red}{\textsf{Coolest Website Repos}}$
-- $\textcolor{red}{\textsf{benguin-dev's Home-page Repo}}$ ~ *Very neat repo* ~ [Repo](https://github.com/benguin-dev/Home-page)
+## $\textcolor{Green}{\textsf{Coolest Repo Number One}}$
+- $\textcolor{red}{\textsf{5afagy's AI Powered Linux Shell StoryTeller and fixing project}}$ ~ * An AI-powered Linux shell tutor and command storyteller.* ~ [BashBard](https://github.com/5afagy/BashBard)
+
+---
+
 
 ## $\textcolor{red}{\textsf{Amazing Repos}}$
 - $\textcolor{red}{\textsf{Cryptography notes}}$ ~ *Includes Classical Ciphers, Classical CryptAnalysis, and GUI parts.* ~ [Repo](https://github.com/3-6-9-0d/Cryptography-notes)
